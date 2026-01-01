@@ -1,0 +1,167 @@
+# Weekly Review
+
+**Week:** [YYYY-WXX] (e.g., 2025-W01)
+**Date Range:** [Monday] - [Sunday]
+
+---
+
+## Part 1: The Rearview Mirror (10 minutes)
+
+### What Moved the Needle?
+
+Look back at your week. What 2-3 things actually mattered? Not everything you did—just the things that created real progress.
+
+1.
+2.
+3.
+
+---
+
+### What Was Noise?
+
+What activities, meetings, or tasks felt busy but didn't actually matter?
+
+
+
+---
+
+### Where Did Time Leak?
+
+Where did time disappear without producing value? (Social media, meetings that should have been emails, rabbit holes, procrastination, etc.)
+
+
+
+---
+
+### Energy Analysis
+
+**Average energy score this week:** [ ]/10 (review your daily check-ins)
+
+**Highest energy day:**
+**Why:**
+
+**Lowest energy day:**
+**Why:**
+
+**Pattern I notice:**
+
+---
+
+## Part 2: The Metrics (5 minutes)
+
+### Weekly Scorecard
+
+Rate yourself 1-10 in each area for this week.
+
+| Domain | Score | One-line explanation |
+|--------|-------|---------------------|
+| Work/Career | [ ] | |
+| Health/Energy | [ ] | |
+| Relationships | [ ] | |
+| Personal Growth | [ ] | |
+
+**Total:** [ ]/40
+
+---
+
+### Goals Check-In
+
+Review your current quarterly or annual goals. For each major goal:
+
+| Goal | Status | This Week's Progress |
+|------|--------|---------------------|
+| | [On Track / Behind / Ahead] | |
+| | [On Track / Behind / Ahead] | |
+| | [On Track / Behind / Ahead] | |
+
+---
+
+## Part 3: The Insights (10 minutes)
+
+### One Strategic Insight
+
+What's one thing you realized this week—about your work, your life, yourself, or the world?
+
+
+
+---
+
+### One Conversation That Mattered
+
+Did you have a conversation that shifted your thinking or strengthened a relationship?
+
+
+
+---
+
+### One Thing You Avoided
+
+What did you know you should do this week but didn't?
+
+
+
+---
+
+### One Thing You're Grateful For
+
+What happened this week that you appreciate?
+
+
+
+---
+
+## Part 4: The Adjustment (5 minutes)
+
+### One Adjustment for Next Week
+
+Based on this review, what one thing will you do differently next week?
+
+
+
+---
+
+### Priorities for Next Week
+
+If you could only accomplish three things next week, what would they be?
+
+1.
+2.
+3.
+
+---
+
+### Carry-Forward
+
+Is there anything from this week that needs to carry forward—unfinished business, follow-ups, open loops?
+
+
+
+---
+
+## Part 5: Quick Reflection
+
+### In one sentence, how would you describe this week?
+
+
+
+### Three words for this week:
+
+1.
+2.
+3.
+
+---
+
+## Weekly Review Checklist
+
+- [ ] Reviewed all daily check-ins
+- [ ] Identified needle-movers vs. noise
+- [ ] Checked in on goals
+- [ ] Identified one strategic insight
+- [ ] Set priorities for next week
+- [ ] Released what doesn't need to carry forward
+
+---
+
+*Time to complete: _____ minutes*
+*Review completed: [DATE/TIME]*

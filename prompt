@@ -1,0 +1,71 @@
+I want you to autonomously build a PERSONAL PRODUCTIVITY SYSTEM for a CEO.
+
+This is NOT a SaaS app, NOT a startup, and NOT a public-facing product. It is a private, single-user, high-trust personal operating system designed for a non-technical CEO, founder, or operator heading into the next year.
+
+The purpose of this system is to help the user reflect, define goals, run daily and weekly check-ins, review past performance, design their ideal future, and maintain clarity without bureaucracy, dashboards, or productivity theater.
+
+You are building a SYSTEM, not software.
+
+Your output should feel like a thoughtful executive coach, a sharp chief of staff, a reflective mirror, and a gentle accountability partner — calm, direct, insightful, and psychologically safe.
+
+Do NOT ask me any questions. Make reasonable assumptions and document them in the system itself.
+
+The system must support daily check-ins, weekly reviews, quarterly goal reviews, annual reflection and planning, ingestion of past documents, guided self-interviews, framework-based thinking, and long-term life design — all using plain language, conversational prompts, markdown files, and a simple folder structure.
+
+Incorporate and credit the following frameworks thoughtfully (adapt, do not plagiarize): Dr. Anthony Gustin’s Annual Review framework, Tim Ferriss’s Ideal Lifestyle Costing, Tony Robbins–style Vivid Vision thinking, and Alex Lieberman’s Life Map (career, relationships, health, meaning, finances, fun)*. You may also include CEO energy management, a personal board of directors, regret minimization, and leverage vs effort analysis. Always explain frameworks in simple, CEO-friendly language.
+
+*shoutout to 
+@dranthonygustin
+, 
+@businessbarista
+, 
+@tferriss
+
+
+Create the following folder and file structure exactly:
+
+ceo-personal-os/
+http://README.md
+http://principles.md
+north_star.md
+frameworks/annual_review.md
+frameworks/vivid_vision.md
+frameworks/ideal_life_costing.md
+frameworks/life_map.md
+interviews/past_year_reflection.md
+interviews/identity_and_values.md
+interviews/future_self_interview.md
+reviews/daily/
+reviews/weekly/
+reviews/quarterly/
+reviews/annual/
+goals/1_year.md
+goals/3_year.md
+goals/10_year.md
+uploads/past_annual_reviews/
+uploads/notes/
+http://memory.md
+
+The system must allow the user to upload past annual reviews, performance reviews, or personal notes, summarize them, extract patterns (repeated goals, failures, strengths, blind spots, themes), generate a synthesized Executive Pattern Summary, store key insights in http://memory.md, and reference those insights in future check-ins and reviews.
+
+Design interview-style scripts that ask calm, coach-like questions such as: “Tell me about the last year — highlights first.” “What drained you the most?” “Where did you avoid hard decisions?” “What are you proud of that no one else sees?” “What would you not repeat under any circumstances?” “If this year repeated ten times, would you be satisfied?” These interviews should feel non-judgmental, insightful, and reflective.
+
+Design a daily check-in that takes no more than five minutes and includes energy level, one meaningful win, one friction point, one thing to let go of, and one priority for tomorrow.
+
+Design a weekly review that covers what moved the needle, what was noise, where time leaked, one strategic insight, and one adjustment for the next week.
+
+Design a quarterly review that evaluates goal progress, detects misalignment, analyzes energy versus output, and guides course correction.
+
+Design an annual review that uses a Gustin-style reflection, updates the Life Map, revisits Ideal Lifestyle Costing, refreshes the Vivid Vision, and produces a clear narrative of the past year and intent for the next.
+
+Use a calm, executive-level tone. No hustle culture. No therapy speak. No corporate jargon. No productivity porn.
+
+Produce fully written templates and prompts for all daily, weekly, quarterly, and annual reviews; all interviews; all framework explanations; and all goal documents. Everything must be editable in plain text.
+
+Include placeholders so the system is adaptable to any CEO, such as [stealth company], Founder/CEO, late 20s w girlfriend in NYC, and raising funding and getting to launched alpha/beta.
+
+The http://README.md must explain exactly how a non-technical CEO uses this system daily, weekly, quarterly, and annually, and how to personalize it in under 15 minutes.
+
+This is complete when a CEO can run Claude Code once, receive a complete personal productivity system, begin using it immediately with zero technical knowledge, and experience more clarity rather than more overwhelm.
+
+Begin by creating the folder structure and http://README.md, then populate every file with thoughtful, high-quality content. Go.
