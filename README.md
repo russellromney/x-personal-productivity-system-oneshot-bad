@@ -1,4 +1,4 @@
-# ceo-personal-os
+# ceo-personal-os 
 
 Don't oneshot stuff. The perfect prompt will never be better than conversation and iteration, even if done very briefly. This repo is a failed test of a oneshot prompt that you'll often see on Twitter. 
 
