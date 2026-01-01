@@ -1,4 +1,4 @@
-# ceo-personal-os 
+# ceo-personal-os (a failed oneshot test)
 
 Don't oneshot stuff. The perfect prompt will never be better than conversation and iteration, even if done very briefly. This repo is a failed test of a oneshot prompt that you'll often see on Twitter. 
 
@@ -14,7 +14,9 @@ Plus, when you actually look at what the prompt is doing, it's not much - just a
 
 There's so much opportunity in using LLMs to help with productivity, direction, focus, strategy, etc. - oneshotting a markdown system does not take full advantage. 
 
-Without further ado, `ceo-personal-os`. 
+The prompt is in `prompt.txt`. Otherwise, everything else in this repo besides this `README.md` preface is LLM-generated.
+
+Without further ado, I present: `ceo-personal-os`. 
 
 ---
 
